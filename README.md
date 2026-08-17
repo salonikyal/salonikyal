@@ -55,6 +55,12 @@ Full-stack developer and technical lead with 5+ years delivering 20+ end-to-end 
 | Community Organiser | Couchsurfing | Mar 2022 – Present | Organise recurring social meetups connecting local and international participants |
  
 <br/>
+
+
+### How I Work With AI
+I want AI to think *with* me, not think *for* me. It gives me a first draft, a starting point, and a wider range of possibilities. I'm a collaborator, not a consumer. I bring the judgment, context, creativity, and direction. It brings speed and range. That's the partnership.
+
+<br/>
 <div align="center">
 <sub>Building systems that scale, and communities that stick around.</sub>
 </div>
