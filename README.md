@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./banner.svg" width="100%" alt="Hi there, I am Saloni — Technical Lead · Full-Stack Developer · Intercultural Connector"/>
+<img src="./banner.svg" width="100%" alt="Hi there, I am Saloni - Technical Lead · Full-Stack Developer · Intercultural Connector"/>
 <a href="mailto:kyalsaloni@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kyalsaloni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/salonikyal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
