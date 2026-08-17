@@ -58,7 +58,7 @@ Full-stack developer and technical lead with 5+ years delivering 20+ end-to-end 
 
 
 ### How I Work With AI
-I want AI to think *with* me, not think *for* me. It gives me a first draft, a starting point, and a wider range of possibilities. I'm a collaborator, not a consumer. I bring the judgment, context, creativity, and direction. It brings speed and range. That's the partnership.
+I want AI to think *with* me, not think *for* me. It gives me a first draft, a starting point, and a wider range of possibilities as a collaborator, not a consumer. I bring the context, creativity, judgment, and direction. It brings speed and range. That's the partnership.
 
 <br/>
 <div align="center">
